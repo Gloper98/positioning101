@@ -1,0 +1,54 @@
+#content{
+  position: relative;
+  padding-right: 270px;
+  padding-left: 50px;
+  padding-bottom: 150px;
+  background-color:white;
+  width: 800px;
+  margin-left: 165px;
+  padding-top: 50px;
+  height: 2000;
+}
+
+#callout{
+  position: absolute;
+  left: 900px;
+  top: 100px;
+  padding-bottom: 100px;
+  background-color: grey;
+  font-family: sans-serif;
+  width: 400px;
+  height: 3200px;
+}
+
+footer{
+  position: fixed;
+  background-color: black;
+  bottom: 0;
+  color: white;
+  margin-left: 162px;
+  margin-right:215px;
+  padding: 15px;
+
+}
+
+body{
+  background-color: orange;
+}
+
+#nav{
+  background-color: black;
+  text-align: center;
+  top: 0;
+  border: 50px solid black;
+  margin-left: 162px;
+  margin-right: 215px;
+
+}
+
+.text{
+ padding-left: 50px;
+ padding-right: 60px;
+ padding-bottom: 10px;
+ padding-top: 20px;
+}

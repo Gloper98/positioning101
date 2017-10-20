@@ -1,0 +1,15 @@
+#box_2 {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+  background-color: orange;
+}
+
+.text{
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 20px;
+  font-size: 18px;
+
+}
